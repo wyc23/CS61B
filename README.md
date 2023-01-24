@@ -1,2 +1,3 @@
 # CS61B
-homework and projects
+
+homework and projects for CS61B
